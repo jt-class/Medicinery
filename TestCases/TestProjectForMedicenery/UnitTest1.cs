@@ -11,7 +11,12 @@ namespace TestProjectForMedicenery
             AssertTrue(Items);
         }
         public void NotifyUsers() {
-        
+            var message = "Test message";
+
+            var notification = new Notification(message)
+                var result = notification.Message;
+
+            Assert.Equal(message, result);
         }
         public void SearchItem() {
             string SearchedItem = "MedecineNumber1";

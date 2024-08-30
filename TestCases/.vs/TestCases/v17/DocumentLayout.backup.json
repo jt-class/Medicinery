@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\John Kristoffer\\source\\repos\\TestCases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A318C27-80EA-40DF-9A26-AF75BEB1B6E4}|TestProjectForMedicenery\\TestProjectForMedicenery.csproj|c:\\users\\john kristoffer\\source\\repos\\testcases\\testprojectformedicenery\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A318C27-80EA-40DF-9A26-AF75BEB1B6E4}|TestProjectForMedicenery\\TestProjectForMedicenery.csproj|solutionrelative:testprojectformedicenery\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John Kristoffer\\source\\repos\\TestCases\\TestProjectForMedicenery\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestProjectForMedicenery\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +22,9 @@
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\source\\repos\\TestCases\\TestProjectForMedicenery\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProjectForMedicenery\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\John Kristoffer\\source\\repos\\TestCases\\TestProjectForMedicenery\\UnitTest1.cs*",
-              "RelativeToolTip": "TestProjectForMedicenery\\UnitTest1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\John Kristoffer\\source\\repos\\TestCases\\TestProjectForMedicenery\\UnitTest1.cs",
+              "RelativeToolTip": "TestProjectForMedicenery\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T08:33:13.683Z",
               "EditorCaption": ""
