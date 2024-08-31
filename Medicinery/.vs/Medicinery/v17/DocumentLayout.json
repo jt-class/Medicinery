@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IMP\\Medicinery\\Medicinery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\enumerations\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\enumerations\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\models\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\models\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\imp\\medicinery\\medicinery\\medicinery\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Medicinery\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Medicinery\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:07:57.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Enumerations\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Medicinery\\Enumerations\\OrderStatus.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Enumerations\\OrderStatus.cs",
+              "RelativeToolTip": "Medicinery\\Enumerations\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:20:24.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddToCart.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Models\\AddToCart.cs",
+              "RelativeDocumentMoniker": "Medicinery\\Models\\AddToCart.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Models\\AddToCart.cs",
+              "RelativeToolTip": "Medicinery\\Models\\AddToCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:05:56.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Medicinery\\MauiProgram.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\MauiProgram.cs",
+              "RelativeToolTip": "Medicinery\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:56:32.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Medicinery\\GlobalUsings.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\GlobalUsings.cs",
+              "RelativeToolTip": "Medicinery\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:26:24.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Services\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "Medicinery\\Services\\CategoryServices.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Services\\CategoryServices.cs",
+              "RelativeToolTip": "Medicinery\\Services\\CategoryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:23:15.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Medicinery\\Models\\Products.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Models\\Products.cs",
+              "RelativeToolTip": "Medicinery\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:22:04.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Medicinery\\Models\\Order.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Models\\Order.cs",
+              "RelativeToolTip": "Medicinery\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:21:53.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "Medicinery\\Models\\Categories.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\Models\\Categories.cs",
+              "RelativeToolTip": "Medicinery\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:21:41.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Medicinery\\MainPage.xaml.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\MainPage.xaml.cs",
+              "RelativeToolTip": "Medicinery\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:59:56.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Medicinery\\AppShell.xaml.cs",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\AppShell.xaml.cs",
+              "RelativeToolTip": "Medicinery\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:05:58.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Medicinery\\MainPage.xaml",
+              "ToolTip": "C:\\IMP\\Medicinery\\Medicinery\\Medicinery\\MainPage.xaml",
+              "RelativeToolTip": "Medicinery\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T06:53:00.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
