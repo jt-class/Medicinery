@@ -1,16 +1,27 @@
 ﻿using Android.App;
+using Android.Content.Res;
 using Android.Runtime;
+using Medicinery;
 
-namespace Medicinery
+namespace CarListApp.Maui;
+[Application]
+public class MainApplication : MauiApplication
 {
-    [Application]
-    public class MainApplication : MauiApplication
+    public MainApplication(IntPtr handle, JniHandleOwnership ownership)
+        : base(handle, ownership)
     {
-        public MainApplication(IntPtr handle, JniHandleOwnership ownership)
-            : base(handle, ownership)
+        Microsoft.Maui.Handlers.EntryHandler.Mapper.AppendToMapping(nameof(Entry), (handler, view) =>
         {
-        }
+            if (view is Entry)
+            {
+                // Remove underline
+                handler.PlatformView.BackgroundTintList = ColorStateList.ValueOf(Android.Graphics.Color.Transparent);
 
-        protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
+                // Change placeholder text color
+                handler.PlatformView.SetHintTextColor(ColorStateList.ValueOf(Android.Graphics.Color.Black));
+            }
+        });
     }
+
+    protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
 }
