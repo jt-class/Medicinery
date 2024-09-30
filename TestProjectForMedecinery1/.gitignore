@@ -1,0 +1,12 @@
+# Ignore Visual Studio temporary files, build results, and
+# the `.vs` folder for Visual Studio code.
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.pdb
+*.obj
+*.log
+*.vsdx
+bin/
+obj/

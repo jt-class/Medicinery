@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\John Kristoffer\\source\\repos\\TestProjectForMedecinery1\\",
+  "WorkspaceRootPath": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\TestProjectForMedecinery1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EB2CB78-818B-40F6-A3FA-1707DE670503}|TestProjectForMedecinery1\\TestProjectForMedecinery1.csproj|c:\\users\\john kristoffer\\source\\repos\\testprojectformedecinery1\\testprojectformedecinery1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EB2CB78-818B-40F6-A3FA-1707DE670503}|TestProjectForMedecinery1\\TestProjectForMedecinery1.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\testprojectformedecinery1\\testprojectformedecinery1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB2CB78-818B-40F6-A3FA-1707DE670503}|TestProjectForMedecinery1\\TestProjectForMedecinery1.csproj|solutionrelative:testprojectformedecinery1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\John Kristoffer\\source\\repos\\TestProjectForMedecinery1\\TestProjectForMedecinery1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\TestProjectForMedecinery1\\TestProjectForMedecinery1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProjectForMedecinery1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\John Kristoffer\\source\\repos\\TestProjectForMedecinery1\\TestProjectForMedecinery1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\TestProjectForMedecinery1\\TestProjectForMedecinery1\\UnitTest1.cs",
               "RelativeToolTip": "TestProjectForMedecinery1\\UnitTest1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAqwLcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T02:09:50.636Z",
               "EditorCaption": ""
