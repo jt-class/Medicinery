@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D5maO7m0RpA=",
+  "dgSpecHash": "coRvm+xsE5w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\John Kristoffer\\source\\repos\\TestProjectForMedecinery1\\TestProjectForMedecinery1\\TestProjectForMedecinery1.csproj",
+  "projectFilePath": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\TestProjectForMedecinery1\\TestProjectForMedecinery1\\TestProjectForMedecinery1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\John Kristoffer\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\John Kristoffer\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
