@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vened\\OneDrive\\Documents\\Medicinery\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj": {}
+    "D:\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vened\\OneDrive\\Documents\\Medicinery\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj": {
+    "D:\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vened\\OneDrive\\Documents\\Medicinery\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj",
+        "projectUniqueName": "D:\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj",
         "projectName": "Medicinery",
-        "projectPath": "C:\\Users\\vened\\OneDrive\\Documents\\Medicinery\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj",
-        "packagesPath": "C:\\Users\\vened\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vened\\OneDrive\\Documents\\Medicinery\\Medicinery\\Medicinery\\Medicinery\\obj\\",
+        "projectPath": "D:\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj",
+        "packagesPath": "C:\\Users\\krato\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Medicinery\\Medicinery\\Medicinery\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vened\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krato\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -80,11 +80,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.72, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.72, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -131,11 +131,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.72, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.72, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -182,11 +182,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.72, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.72, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -234,11 +234,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.72, )"
+              "version": "[8.0.82, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.72, )"
+              "version": "[8.0.82, )"
             }
           },
           "imports": [

@@ -18,7 +18,10 @@ namespace Medicinery.Services
 
                 var supplements = new List<Categories>
             {
-                new (1, "Supplements", 0, "Supplements.png", "Photo by <a href=\"https://unsplash.com/photos/a-close-up-of-pills-and-pills-on-a-table-fIO2VfChf1w")
+                new (1, "Supplements", 0, "Supplements.png", "Photo by <a href=\"https://unsplash.com/photos/a-close-up-of-pills-and-pills-on-a-table-fIO2VfChf1w"),
+                new (1, "Supplements", 1, "Supplements.png", "Photo by <a href=\"https://unsplash.com/photos/a-close-up-of-pills-and-pills-on-a-table-fIO2VfChf1w"),
+                new (1, "Supplements", 1, "Supplements.png", "Photo by <a href=\"https://unsplash.com/photos/a-close-up-of-pills-and-pills-on-a-table-fIO2VfChf1w"),
+                new (1, "Supplements", 1, "Supplements.png", "Photo by <a href=\"https://unsplash.com/photos/a-close-up-of-pills-and-pills-on-a-table-fIO2VfChf1w"),
             };
 
                 categories.AddRange(supplements);

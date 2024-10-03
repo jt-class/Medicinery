@@ -5,7 +5,6 @@
              xmlns:viewmodels="clr-namespacec:Medicinery.ViewModels"
              x:DataType="viewmodels:MainViewModel">
              
-    
 
     <ScrollView>
         <VerticalStackLayout
