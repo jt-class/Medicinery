@@ -2,13 +2,14 @@ namespace Medicinery;
 
 public partial class LoginPage : ContentPage
 {
+    
     public LoginPage()
     {
         InitializeComponent();
+        BindingContext = new LoginViewModel(Navigation);
     }
-    private void OnSignInButtonTapped(object sender, EventArgs e)
-    {
-        // Handle button tap
-        Console.WriteLine("Sign In button tapped!");
+    private async void SignUp(Object sender, EventArgs e) {
+        await Navigation.PushModalAsync(new SignUpPages());
     }
-}
+    
+}   

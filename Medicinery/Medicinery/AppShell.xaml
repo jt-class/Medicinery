@@ -30,7 +30,10 @@
         Icon="Profile.png" 
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="ProfilePage" />
-
+       
     </TabBar>
-        
+    <ShellContent Title="SignUpPages" ContentTemplate="{DataTemplate local:SignUpPages}" />
+    <ShellContent Title="LoginPage" ContentTemplate="{DataTemplate local:LoginPage}" />
+    
+
 </Shell>

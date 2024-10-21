@@ -31,7 +31,7 @@
                        HorizontalOptions="FillAndExpand" 
                        CornerRadius="40"
                        HeightRequest="43">
-                    <Entry Text="{Binding elementary221b@gmail.com}" 
+                    <Entry Text="{Binding Email}" 
                            Placeholder="elementary221b@gmail.com" 
                            TextColor="Black" 
                            FontAttributes="None" 
@@ -61,7 +61,7 @@
                        HorizontalOptions="FillAndExpand" 
                        CornerRadius="40"
                        HeightRequest="43">
-                    <Entry Text="{Binding **********************}" 
+                    <Entry Text="{Binding Password}" 
                            Placeholder="**********************" 
                            TextColor="Black" 
                            FontAttributes="None" 
@@ -106,25 +106,19 @@
                             <ColumnDefinition Width="*"/>
                         </Grid.ColumnDefinitions>
 
-                        <Image Source="login.png"
-                               Scale=".9"
-                               VerticalOptions="Center"
-                               HorizontalOptions="Center"
-                               Grid.Column="1"
-                               TranslationX="20"/>
+                        <Button Text="Login"
+                                BackgroundColor="#624bff"
+                                TextColor="White"
+                                CornerRadius="25"
+                                HeightRequest="50"
+                                FontAttributes="Bold"
+                                HorizontalOptions="Center"
+                                GestureRecognizers="{TapGestureRecognizer Command={Binding Login}}"
+                                ImageSource="login.png"
+                                />
 
-                        <Label Text="Sign in"
-                               VerticalOptions="Center"
-                               HorizontalOptions="Center"
-                               FontAttributes="Bold"
-                               FontFamily="None"
-                               TextColor="Black"
-                               Grid.Column="1"
-                               Margin="0,0,35,0"/>
                     </Grid>
-                    <Frame.GestureRecognizers>
-                        <TapGestureRecognizer Tapped="OnSignInButtonTapped"/>
-                    </Frame.GestureRecognizers>
+                     
                 </Frame>
             </StackLayout>
 
@@ -148,7 +142,11 @@
                            HorizontalOptions="Center"
                            TextColor="#624bff"
                            Margin="8,380,0,0"
-                           Grid.Column="1"/>
+                           Grid.Column="1">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="SignUp"/>
+                        </Label.GestureRecognizers>
+                    </Label>
                 </Grid>
             </StackLayout>
 

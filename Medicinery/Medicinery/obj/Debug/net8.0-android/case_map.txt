@@ -1,1 +1,9 @@
-values\colors;values\colors
+images\dotnet_bot;images\dotnet_bot
+images\eye_icon;images\eye_icon
+images\fblogo;images\fblogo
+images\googlelogo;images\googlelogo
+images\lock;images\lock
+images\login;images\login
+images\logo;images\logo
+images\mail;images\mail
+raw\aboutassets;raw\AboutAssets
