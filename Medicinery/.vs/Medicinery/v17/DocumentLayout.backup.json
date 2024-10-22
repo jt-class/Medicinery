@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\medicinery\\medicinery\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\medicinery\\medicinery\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\medicinery\\medicinery\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\medicinery\\medicinery\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\medicinery\\medicinery\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\medicinery\\medicinery\\pages\\driversloginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\medicinery\\medicinery\\pages\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\pages\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\medicinery\\medicinery\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|solutionrelative:medicinery\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F079993A-9378-42B0-A45E-8338C43AE2BF}|Medicinery\\Medicinery.csproj|c:\\users\\john kristoffer\\newdirectory\\github\\medicinery\\medicinery\\medicinery\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,33 +158,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "Medicinery\\Pages\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\LoginPage.xaml",
-              "RelativeToolTip": "Medicinery\\Pages\\LoginPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T06:46:09.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomePage.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\HomePage.xaml",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\HomePage.xaml",
               "ToolTip": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\HomePage.xaml",
               "RelativeToolTip": "Medicinery\\Pages\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-21T10:54:39.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DriversLoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\DriversLoginPage.xaml",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\DriversLoginPage.xaml",
@@ -192,12 +179,11 @@
               "RelativeToolTip": "Medicinery\\Pages\\DriversLoginPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T05:19:03.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T05:19:03.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SplashScreen.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\SplashScreen.xaml",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\SplashScreen.xaml",
@@ -205,12 +191,11 @@
               "RelativeToolTip": "Medicinery\\Pages\\SplashScreen.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T06:23:10.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T06:23:10.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SelectionPage.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\SelectionPage.xaml",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\SelectionPage.xaml",
@@ -218,12 +203,11 @@
               "RelativeToolTip": "Medicinery\\Pages\\SelectionPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T04:46:52.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T04:46:52.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AddToCartPage.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\AddToCartPage.xaml",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\AddToCartPage.xaml",
@@ -231,12 +215,11 @@
               "RelativeToolTip": "Medicinery\\Pages\\AddToCartPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T08:03:20.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:03:20.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\LoginPage.xaml.cs",
@@ -244,25 +227,49 @@
               "RelativeToolTip": "Medicinery\\Pages\\LoginPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:10:18.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:10:18.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Medicinery\\ViewModels\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "Medicinery\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T06:15:41.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Medicinery\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "Medicinery\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:03:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Medicinery\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Medicinery\\Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T06:46:09.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CategoriesPage.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\CategoriesPage.xaml",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\CategoriesPage.xaml",
@@ -270,12 +277,11 @@
               "RelativeToolTip": "Medicinery\\Pages\\CategoriesPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T08:02:59.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:02:59.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProfilePage.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\ProfilePage.xaml",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\ProfilePage.xaml",
@@ -283,12 +289,11 @@
               "RelativeToolTip": "Medicinery\\Pages\\ProfilePage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T08:01:50.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T08:01:50.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SignUpPages.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\SignUpPages.xaml",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\SignUpPages.xaml",
@@ -296,12 +301,11 @@
               "RelativeToolTip": "Medicinery\\Pages\\SignUpPages.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T07:56:54.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:56:54.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\AppShell.xaml",
               "RelativeDocumentMoniker": "Medicinery\\AppShell.xaml",
@@ -309,12 +313,11 @@
               "RelativeToolTip": "Medicinery\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T06:47:09.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T06:47:09.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Medicinery\\MainPage.xaml.cs",
@@ -322,12 +325,11 @@
               "RelativeToolTip": "Medicinery\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T07:36:11.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T07:36:11.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\MainPage.xaml",
               "RelativeDocumentMoniker": "Medicinery\\MainPage.xaml",
@@ -335,12 +337,11 @@
               "RelativeToolTip": "Medicinery\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T07:36:10.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T07:36:10.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\App.xaml",
               "RelativeDocumentMoniker": "Medicinery\\App.xaml",
@@ -348,12 +349,11 @@
               "RelativeToolTip": "Medicinery\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T07:57:24.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:57:24.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SplashScreen.xaml.cs",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\SplashScreen.xaml.cs",
               "RelativeDocumentMoniker": "Medicinery\\Pages\\SplashScreen.xaml.cs",
@@ -361,21 +361,7 @@
               "RelativeToolTip": "Medicinery\\Pages\\SplashScreen.xaml.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:25:22.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "Medicinery\\Pages\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Pages\\HomePage.xaml.cs",
-              "RelativeToolTip": "Medicinery\\Pages\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T08:03:26.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T06:25:22.238Z"
             },
             {
               "$type": "Document",
@@ -387,8 +373,7 @@
               "RelativeToolTip": "Medicinery\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T07:35:52.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T07:35:52.184Z"
             },
             {
               "$type": "Document",
@@ -400,8 +385,7 @@
               "RelativeToolTip": "Medicinery\\Pages\\SignUpPages.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T06:28:43.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T06:28:43.107Z"
             },
             {
               "$type": "Document",
@@ -413,8 +397,7 @@
               "RelativeToolTip": "Medicinery\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:57:24.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:57:24.99Z"
             },
             {
               "$type": "Document",
@@ -426,8 +409,7 @@
               "RelativeToolTip": "Medicinery\\Pages\\DriversLoginPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:58:33.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T06:58:33.212Z"
             },
             {
               "$type": "Document",
@@ -438,8 +420,7 @@
               "ToolTip": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj",
               "RelativeToolTip": "Medicinery\\Medicinery.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T07:00:04.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T07:00:04.539Z"
             },
             {
               "$type": "Document",
@@ -451,21 +432,19 @@
               "RelativeToolTip": "Medicinery\\Pages\\SelectionPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:47:47.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T04:47:47.282Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Medicinery",
+              "Title": "Medicinery.csproj",
               "DocumentMoniker": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj",
               "RelativeDocumentMoniker": "Medicinery\\Medicinery.csproj",
               "ToolTip": "C:\\Users\\John Kristoffer\\NewDirectory\\GitHub\\Medicinery\\Medicinery\\Medicinery\\Medicinery.csproj",
               "RelativeToolTip": "Medicinery\\Medicinery.csproj",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T05:11:20.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T05:11:20.705Z"
             },
             {
               "$type": "Document",
@@ -477,8 +456,7 @@
               "RelativeToolTip": "Medicinery\\ViewModels\\HomePageViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T07:31:24.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T07:31:24.91Z"
             },
             {
               "$type": "Document",
@@ -490,8 +468,7 @@
               "RelativeToolTip": "Medicinery\\ViewModels\\SignUpViewModel.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAhwD8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T10:03:46.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T10:03:46.337Z"
             },
             {
               "$type": "Document",
@@ -503,8 +480,7 @@
               "RelativeToolTip": "Medicinery\\MauiProgram.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T07:47:08.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T07:47:08.309Z"
             },
             {
               "$type": "Document",
@@ -516,8 +492,7 @@
               "RelativeToolTip": "Medicinery\\Models\\Medicine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T03:44:45.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T03:44:45.078Z"
             },
             {
               "$type": "Document",
@@ -529,8 +504,7 @@
               "RelativeToolTip": "Medicinery\\Services\\CategoryServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T07:29:06.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T07:29:06.512Z"
             },
             {
               "$type": "Document",

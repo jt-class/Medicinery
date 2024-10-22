@@ -66,6 +66,7 @@
 	  <None Remove="Resources\Images\antacids.png" />
 	  <None Remove="Resources\Images\aspirin.png" />
 	  <None Remove="Resources\Images\background.png" />
+	  <None Remove="Resources\Images\cart_icon.png" />
 	  <None Remove="Resources\Images\category_icon.png" />
 	  <None Remove="Resources\Images\drivers_account.png" />
 	  <None Remove="Resources\Images\eye_icon.png" />
@@ -85,6 +86,7 @@
 	  <None Remove="Resources\Images\order_icon.png" />
 	  <None Remove="Resources\Images\paracetamol.png" />
 	  <None Remove="Resources\Images\shoppers_account.png" />
+	  <None Remove="Resources\Images\state_layer.png" />
 	</ItemGroup>
 
 	<ItemGroup>

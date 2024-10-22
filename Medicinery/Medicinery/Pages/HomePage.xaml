@@ -5,36 +5,46 @@
              xmlns:local="clr-namespace:Medicinery.Models"
              BackgroundColor="#e6ffe6"
              Title="HomePage"
-             Shell.NavBarIsVisible="False"
-             >
+             Shell.NavBarIsVisible="False">
 
     <Grid Padding="10">
-        <!-- Top Section: Logo, Search bar, and Cart Icon -->
-        <StackLayout Orientation="Vertical" Spacing="20">
+        <!-- Top Section: Logo, State Layer, and Cart Icon -->
+        <StackLayout Orientation="Vertical" Spacing="20" >
+            <!-- Logo at the top -->
+            <Image Source="logo.png" HorizontalOptions="Center" WidthRequest="175"/>
 
-            <!-- Logo and Cart -->
-            <Grid RowDefinitions="Auto" ColumnDefinitions="*,Auto">
-                <Image Source="logo.png" HorizontalOptions="Center" WidthRequest="150" />
-                <ImageButton Source="cart_icon.png" 
-                             HorizontalOptions="End"
-                             VerticalOptions="Center" 
-                             HeightRequest="50" />
+        </StackLayout>
+        <StackLayout Orientation="Vertical" Spacing="20" Margin="0,110,0,0">
+            <!-- State Layer and Cart in the same row -->
+            <Grid ColumnDefinitions="*,Auto" Margin="0">
+                <Image Source="state_layer.png"
+                       HeightRequest="50"
+                       HorizontalOptions="Start" />
+                <ImageButton Grid.Column="1"
+                             Source="cart_icon.png"
+                             HeightRequest="30"
+                             HorizontalOptions="End" />
             </Grid>
+            
+        </StackLayout>
+
+        <StackLayout Orientation="Vertical" Spacing="20" Margin="0,155,0,0">
 
             <!-- Search Bar -->
             <SearchBar Placeholder="Search" 
                        BackgroundColor="#ffffff"
                        TextColor="Black" 
-                       PlaceholderColor="Gray" />
+                       PlaceholderColor="Gray"
+                       Margin="0"/>
 
             <!-- Featured Medicine Image -->
             <Image Source="featured_medicine.png" 
                    Aspect="AspectFill" 
                    HeightRequest="150"
-                   Margin="10"/>
+                   Margin="0"/>
 
             <!-- Medicines Grid -->
-            <CollectionView Margin="0" HorizontalScrollBarVisibility="Never" >
+            <CollectionView Margin="0" HorizontalScrollBarVisibility="Never">
                 <CollectionView.ItemsLayout>
                     <GridItemsLayout Orientation="Vertical" Span="3" />
                 </CollectionView.ItemsLayout>
@@ -75,13 +85,12 @@
         </StackLayout>
 
         <!-- Bottom Navigation Bar -->
-        <StackLayout VerticalOptions="EndAndExpand"
-                     >
+        <StackLayout VerticalOptions="EndAndExpand">
             <Grid ColumnDefinitions="*,*,*,*">
-                <Button Grid.Column="0"  ImageSource="home_icon.png" BackgroundColor="#CFF7D3" />
-                <Button Grid.Column="1"  ImageSource="category_icon.png" BackgroundColor="White" />
-                <Button Grid.Column="2"  ImageSource="order_icon.png" BackgroundColor="White" />
-                <Button Grid.Column="3"  ImageSource="account_icon.png" BackgroundColor="White" />
+                <Button Grid.Column="0" ImageSource="home_icon.png" BackgroundColor="#CFF7D3" />
+                <Button Grid.Column="1" ImageSource="category_icon.png" BackgroundColor="White" />
+                <Button Grid.Column="2" ImageSource="order_icon.png" BackgroundColor="White" />
+                <Button Grid.Column="3" ImageSource="account_icon.png" BackgroundColor="White" />
             </Grid>
         </StackLayout>
 
