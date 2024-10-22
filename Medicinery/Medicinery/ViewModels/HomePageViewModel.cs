@@ -5,22 +5,18 @@ namespace Medicinery.ViewModels
 {
     public partial class HomePageViewModel : ObservableObject
     {
-        private readonly CategoryServices _categoryServices;
+        private INavigation _inavigatoion;
 
-        public HomePageViewModel(CategoryServices categoryServices)
+        
+        public HomePageViewModel(INavigation navigation)
         {
-            _categoryServices = categoryServices;
+            this._inavigatoion = navigation;    
         }
 
-        public ObservableCollection <Categories> Categories { get; set; }
-        public async Task InitializeAsync()
-        {
-            foreach (var categories in await _categoryServices.GetCategoriesAsync())
-            {
-                Categories.Add(categories);
-            }
-        }
 
+        
+
+       
     }
-
+    
 }

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Medicinery.Pages.HomePage"
+             xmlns:local="clr-namespace:Medicinery.Models"
+             BackgroundColor="#e6ffe6"
+             Title="HomePage"
+             Shell.NavBarIsVisible="False"
+             >
+
+    <Grid Padding="10">
+        <!-- Top Section: Logo, Search bar, and Cart Icon -->
+        <StackLayout Orientation="Vertical" Spacing="20">
+
+            <!-- Logo and Cart -->
+            <Grid RowDefinitions="Auto" ColumnDefinitions="*,Auto">
+                <Image Source="logo.png" HorizontalOptions="Center" WidthRequest="150" />
+                <ImageButton Source="cart_icon.png" 
+                             HorizontalOptions="End"
+                             VerticalOptions="Center" 
+                             HeightRequest="50" />
+            </Grid>
+
+            <!-- Search Bar -->
+            <SearchBar Placeholder="Search" 
+                       BackgroundColor="#ffffff"
+                       TextColor="Black" 
+                       PlaceholderColor="Gray" />
+
+            <!-- Featured Medicine Image -->
+            <Image Source="featured_medicine.png" 
+                   Aspect="AspectFill" 
+                   HeightRequest="150"
+                   Margin="10"/>
+
+            <!-- Medicines Grid -->
+            <CollectionView Margin="0" HorizontalScrollBarVisibility="Never" >
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical" Span="3" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Frame CornerRadius="15" 
+                                   HasShadow="True" 
+                                   BackgroundColor="White" 
+                                   Padding="10"
+                                   Margin="5">
+                                <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                                    <Image Source="{Binding Icon}" HeightRequest="25" WidthRequest="25" />
+                                    <Label Text="{Binding Name}" 
+                                           HorizontalOptions="Center" 
+                                           TextColor="Black" />
+                                </StackLayout>
+                            </Frame>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+
+                <CollectionView.ItemsSource>
+                    <x:Array Type="{x:Type local:Medicine}">
+                        <local:Medicine Name="Paracetamol" Icon="paracetamol.png" />
+                        <local:Medicine Name="Amoxicillin" Icon="amoxicillin.png" />
+                        <local:Medicine Name="Aspirin" Icon="aspirin.png" />
+                        <local:Medicine Name="Ibuprofen" Icon="ibuprofen.png" />
+                        <local:Medicine Name="Metformin" Icon="metformin.png" />
+                        <local:Medicine Name="Lisinopril" Icon="lisinopril.png" />
+                        <local:Medicine Name="Antacids" Icon="antacids.png" />
+                        <local:Medicine Name="Loperamide" Icon="loperamide.png" />
+                        <local:Medicine Name="More" Icon="foodcategory.png"/>
+                    </x:Array>
+                </CollectionView.ItemsSource>
+            </CollectionView>
+
+        </StackLayout>
+
+        <!-- Bottom Navigation Bar -->
+        <StackLayout VerticalOptions="EndAndExpand"
+                     >
+            <Grid ColumnDefinitions="*,*,*,*">
+                <Button Grid.Column="0"  ImageSource="home_icon.png" BackgroundColor="#CFF7D3" />
+                <Button Grid.Column="1"  ImageSource="category_icon.png" BackgroundColor="White" />
+                <Button Grid.Column="2"  ImageSource="order_icon.png" BackgroundColor="White" />
+                <Button Grid.Column="3"  ImageSource="account_icon.png" BackgroundColor="White" />
+            </Grid>
+        </StackLayout>
+
+    </Grid>
+</ContentPage>

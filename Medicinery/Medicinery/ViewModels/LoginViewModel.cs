@@ -1,7 +1,4 @@
-﻿
-
-
-using Firebase.Auth;
+﻿using Firebase.Auth;
 using Medicinery.Pages;
 using Newtonsoft.Json;
 using System.ComponentModel;
@@ -10,7 +7,7 @@ namespace Medicinery.ViewModels;
 
 public class LoginViewModel : INotifyPropertyChanged
 {
-    private INavigation? _navigation;
+    private INavigation _navigation;
     private string _email;
     private string _password;
     public string WebAPIkey = "AIzaSyAOeUXu18qCz30Tf6fYs2fp3KgTGBYAcS8";
@@ -33,11 +30,11 @@ public class LoginViewModel : INotifyPropertyChanged
         }
 
     }
-    public Command Login { get; }   
+    public Command LoginCommand { get; }   
     public LoginViewModel(INavigation navigation)
     {
         this._navigation = navigation;
-        Login = new Command(LoginUserTappedAsysnc);
+        LoginCommand = new Command(LoginUserTappedAsysnc);
     }
 
     private async void LoginUserTappedAsysnc(object obj)
@@ -50,8 +47,7 @@ public class LoginViewModel : INotifyPropertyChanged
             var cotent = await auth.GetFreshAuthAsync();
             var serlizationContent = JsonConvert.SerializeObject(cotent);
             Preferences.Set("FreshFirebaseToken", serlizationContent);
-            await this._navigation.PopAsync();
-            await this._navigation.PushAsync(new HomePage());
+            await this._navigation.PushModalAsync(new HomePage());
             
         }
         catch (Exception ex)

@@ -2,7 +2,9 @@
 
 
 using Firebase.Auth;
+using Microsoft.Maui.Controls;
 using System.ComponentModel;
+using System.Diagnostics;
 
 namespace Medicinery.ViewModels;
 
@@ -52,13 +54,16 @@ public class SignUpViewModel : INotifyPropertyChanged
             string token = auth.FirebaseToken;
             if (token != null) {
                 await App.Current.MainPage.DisplayAlert("Alert!", "User Registerd Successfully ","OK");
-                await this._navigation.PushModalAsync(new LoginPage());
+                
+                await _navigation.PopModalAsync();
             }
 
 
         } 
         catch (Exception ex) {
-            await App.Current.MainPage.DisplayAlert("Alert!", ex.Message, "OK");
+            Debug.WriteLine(ex);
+            await App.Current.MainPage.DisplayAlert("Alert!", ex.Message,   "OK");
+            
             throw;
         }
         

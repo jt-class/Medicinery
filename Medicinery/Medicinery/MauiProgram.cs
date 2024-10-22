@@ -1,5 +1,4 @@
-﻿
-using Medicinery.Pages;
+﻿using Medicinery.Pages;
 using Medicinery.Services;
 
 namespace Medicinery

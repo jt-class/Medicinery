@@ -58,6 +58,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.Categorie
 build_metadata.AdditionalFiles.TargetPath = Pages\CategoriesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\CategoriesPage.xaml
 
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/DriversLoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.DriversLoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DriversLoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DriversLoginPage.xaml
+
 [C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.HomePage.xaml
@@ -69,6 +75,18 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.ProfilePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/SelectionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.SelectionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SelectionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SelectionPage.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/SplashScreen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.SplashScreen.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SplashScreen.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SplashScreen.xaml
 
 [C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
