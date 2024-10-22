@@ -8,41 +8,95 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Medicinery
-build_property.ProjectDir = C:\Users\vened\OneDrive\Documents\Medicinery\Medicinery\Medicinery\Medicinery\
+build_property.ProjectDir = C:\Users\John Kristoffer\NewDirectory\GitHub\Medicinery\Medicinery\Medicinery\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/vened/OneDrive/Documents/Medicinery/Medicinery/Medicinery/Medicinery/App.xaml]
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/vened/OneDrive/Documents/Medicinery/Medicinery/Medicinery/Medicinery/AppShell.xaml]
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/vened/OneDrive/Documents/Medicinery/Medicinery/Medicinery/Medicinery/LoginPage.xaml]
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Controls/Spacer.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.LoginPage.xaml
-build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
-build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Controls.Spacer.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\Spacer.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\Spacer.xaml
 
-[C:/Users/vened/OneDrive/Documents/Medicinery/Medicinery/Medicinery/Medicinery/MainPage.xaml]
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/vened/OneDrive/Documents/Medicinery/Medicinery/Medicinery/Medicinery/Resources/Styles/Colors.xaml]
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/AddToCartPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.AddToCartPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddToCartPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddToCartPage.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/CategoriesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.CategoriesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CategoriesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CategoriesPage.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/DriversLoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.DriversLoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DriversLoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DriversLoginPage.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/SelectionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.SelectionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SelectionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SelectionPage.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/SignUpPages.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.SignUpPages.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SignUpPages.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SignUpPages.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Pages/SplashScreen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Pages.SplashScreen.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SplashScreen.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SplashScreen.xaml
+
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/vened/OneDrive/Documents/Medicinery/Medicinery/Medicinery/Medicinery/Resources/Styles/Styles.xaml]
+[C:/Users/John Kristoffer/NewDirectory/GitHub/Medicinery/Medicinery/Medicinery/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Medicinery.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

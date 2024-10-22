@@ -1,4 +1,4 @@
-﻿
+﻿using Medicinery.Pages;
 using Medicinery.Services;
 
 namespace Medicinery
@@ -14,10 +14,10 @@ namespace Medicinery
                 fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
             })
             .UseMauiCommunityToolkit();
-            builder.Services.AddSingleton<MainViewModel>();
+            builder.Services.AddSingleton<HomePageViewModel>();
             builder.Services.AddSingleton<CategoryServices>();
-
             builder.Services.AddSingleton<MainPage>();
+            builder.Services.AddSingleton<HomePage>(); 
 
             return builder.Build();
 

@@ -8,6 +8,7 @@
             Name = name;
             Image = image;
             ParentId = parentId;
+            Credit = credit;
         }
         public short Id { get; set; }
         public string Name { get; set; }

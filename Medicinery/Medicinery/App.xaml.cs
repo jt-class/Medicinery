@@ -1,4 +1,6 @@
-﻿namespace Medicinery
+﻿using Medicinery.Pages;
+
+namespace Medicinery
 {
     public partial class App : Application
     {
@@ -7,6 +9,10 @@
             InitializeComponent();
 
             MainPage = new AppShell();
+            
         }
+        
+
+        
     }
 }

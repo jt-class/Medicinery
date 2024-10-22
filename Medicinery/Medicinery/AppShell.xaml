@@ -3,34 +3,30 @@
     x:Class="Medicinery.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Medicinery"
+    xmlns:Local="clr-namespace:Medicinery.Pages"
     Shell.FlyoutBehavior="Disabled"
     Title="Medicinery">
 
-    <TabBar>
-        <ShellContent
-        Title="Home"
-        Icon="Home.png"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="HomePage" />
+    <ShellContent 
+        Title="SplashScreen" 
+        ContentTemplate="{DataTemplate Local:SplashScreen}" 
+        Route="SplashScree"
+        />
 
-        <ShellContent
-        Title="Categories"
-        Icon="Categories.png" 
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="CategoriesPage" />
-
-        <ShellContent
-        Title="A.I Maymax"
-        Icon="A.I.png" 
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="A.I Page" />
-        <ShellContent
-        Title="Profile"
-        Icon="Profile.png" 
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="ProfilePage" />
-
-    </TabBar>
-        
+    <ShellContent 
+        Title="SelectionPage" 
+        ContentTemplate="{DataTemplate Local:SelectionPage}"
+        Route="SelectionPage"
+        />
+    <ShellContent 
+        Title="LoginPage" 
+        ContentTemplate="{DataTemplate Local:LoginPage}"
+        Route="LoginPage"
+        />
+    <ShellContent 
+        Title="DriversLogin" 
+        ContentTemplate="{DataTemplate Local:DriversLogin}"
+        Route="DriversLogin"
+        />
+    
 </Shell>
